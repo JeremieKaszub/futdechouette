@@ -1,0 +1,8 @@
+== README
+
+Voici l'application réalisée pour le site du bar Le Fut de Chouette.
+
+1) La première étape consiste en la création des différentes pages statiques souhaitées par le client :
+	-home : qui corréspondra à la présentation du bar
+	-products : qui permettra aux propriétaires de montrer leur gammes de bières
+	-about : qui permettra aux propriétaires de fournir leur coordonnées
